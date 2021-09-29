@@ -1,7 +1,4 @@
-# codecademy
-Codecademy courses
-
-
+# Codecademy CS102
 
 # Why Data Structures and Algorithms
 
